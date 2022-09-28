@@ -50,7 +50,7 @@ function App() {
           contractABI,
           signer
         );
-        console.log(await bankContract.backname());
+
         let bankName = await bankContract.bankName();
         bankName = utils.parseBytes32String(bankName);
         setCurrentBankName(bankName.toString());
