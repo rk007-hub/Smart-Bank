@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Smart-Bank/static/css/main.79bbfe29.css",
-    "main.js": "/Smart-Bank/static/js/main.0ddf741d.js",
+    "main.js": "/Smart-Bank/static/js/main.72e34806.js",
     "index.html": "/Smart-Bank/index.html",
     "main.79bbfe29.css.map": "/Smart-Bank/static/css/main.79bbfe29.css.map",
-    "main.0ddf741d.js.map": "/Smart-Bank/static/js/main.0ddf741d.js.map"
+    "main.72e34806.js.map": "/Smart-Bank/static/js/main.72e34806.js.map"
   },
   "entrypoints": [
     "static/css/main.79bbfe29.css",
-    "static/js/main.0ddf741d.js"
+    "static/js/main.72e34806.js"
   ]
 }
